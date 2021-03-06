@@ -1,0 +1,4 @@
+Sesion 1:
+ - Clonar un repositorio:
+ - git clone (url del repositorio)
+ - Inicializar
